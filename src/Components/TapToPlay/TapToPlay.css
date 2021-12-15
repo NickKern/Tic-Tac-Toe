@@ -1,0 +1,23 @@
+.to-play {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 2;
+  width: 100vw;
+  height: 100vh;
+}
+.shadow {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  opacity: 0.8;
+}
+.to-play button {
+  z-index: 3;
+  width: 200px;
+  height: 70px;
+  font-size: 40px;
+  border-radius: 15px;
+}

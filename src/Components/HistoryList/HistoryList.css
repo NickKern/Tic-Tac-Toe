@@ -1,0 +1,20 @@
+.history h1 {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+.list {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  width: 97%;
+  height: 590px;
+  border-radius: 10px;
+}
+.list button {
+  width: 100%;
+  height: 8%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 25px;
+}

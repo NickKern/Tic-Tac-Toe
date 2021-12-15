@@ -1,0 +1,6 @@
+.board-row {
+  display: flex;
+  width: 540px;
+}
+@media screen {
+}
